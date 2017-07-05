@@ -1,2 +1,1 @@
-const lib = require('is-number-like');
-
+const lib = require('hashwords');
